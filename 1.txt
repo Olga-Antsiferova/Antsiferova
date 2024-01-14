@@ -2,4 +2,4 @@ Hello!
 How are you?
 Hello, fine.
 And you?
-I'm fine too.
+I'm fine.
